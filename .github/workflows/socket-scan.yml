@@ -1,6 +1,6 @@
 # Socket reachability scan for stellar-docs.
 # For general Socket reachability documentation, see https://docs.socket.dev/docs/full-application-reachability
-# Node project (yarn — yarn.lock).
+# Node project (pnpm — pnpm-lock.yaml).
 #
 # Schedule: Sun 15:36 UTC weekly. Use workflow_dispatch to run on demand.
 #
